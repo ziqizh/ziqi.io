@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "San Francisco, California"
   date_start = "2019-05-01"
-  date_end = "2016-08-01"
+  date_end = "2019-08-01"
   description = """
   - Refactored Hadoop workflows and created new services to migrate jobs from VM to Kubernetes.
   - Revamped a Hadoop workflow using Zookeeper to solve a filesystem deadlock problem.
@@ -45,8 +45,8 @@ date_format = "Jan 2006"
   company = "Microsoft"
   company_url = ""
   location = "Beijing, China"
-  date_start = "2019-05-01"
-  date_end = "2016-08-01"
+  date_start = "2017-05-01"
+  date_end = "2017-08-01"
   description = """
   - Initiated a web app project which creates personalized posters to improve participation by 30%.
   - Maintained and updated the official site of Microsoft Asia-Pacific R&D and internal sites.
