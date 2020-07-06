@@ -66,5 +66,5 @@ user_groups:
 - Visitors
 ---
 
-Oliver Zhang is a senior at the University of Michigan IoT Security Lab, advised by Prof. Atul Prakash. His research interests include adversarial learning and interpretable machine learning. 
+Oliver Zhang is a senior computer science student at the University of Michigan IoT Security Lab, advised by Prof. Atul Prakash. His research interests include adversarial learning and interpretable machine learning. 
 
