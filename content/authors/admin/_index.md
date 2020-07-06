@@ -13,9 +13,9 @@ superuser: true
 role: Student at University of Michigan | SDE Intern at Google
 
 # Organizations/Affiliations
-organizations:
-- name: University of Michigan
-  url: ""
+organizations: []
+#- name: University of Michigan
+# url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adversarial learning and interpretable machine learning.
@@ -61,9 +61,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+#- Researchers
+#- Visitors
 ---
 
 Oliver Zhang is a undergraduate student at the University of Michigan IoT Security Lab, advised by Prof. [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). His research interests include adversarial learning and interpretable machine learning. 
