@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -29,12 +29,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineering Intern"
+  company = "LiveRamp"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "San Francisco, California"
+  date_start = "2019-05-01"
+  date_end = "2016-08-01"
+  description = """
+  - Refactored Hadoop workflows and created new services to migrate jobs from VM to Kubernetes.
+  - Revamped a Hadoop workflow using Zookeeper to solve a filesystem deadlock problem.
+  """
 
 +++
