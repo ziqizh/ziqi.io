@@ -40,4 +40,16 @@ date_format = "Jan 2006"
   - Revamped a Hadoop workflow using Zookeeper to solve a filesystem deadlock problem.
   """
 
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Microsoft"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2019-05-01"
+  date_end = "2016-08-01"
+  description = """
+  - Initiated a web app project which creates personalized posters to improve participation by 30%.
+  - Maintained and updated the official site of Microsoft Asia-Pacific R&D and internal sites.
+  """
+
 +++
