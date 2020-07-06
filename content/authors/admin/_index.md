@@ -21,8 +21,8 @@ organizations: []
 bio: My research interests include adversarial learning and interpretable machine learning.
 
 interests:
-- Adversarial Learning
-- Interpretable Machine Learning
+- Robustness and Uncentainty in Computer Vision
+- Reliable Deep Learning
 
 education:
   courses:
