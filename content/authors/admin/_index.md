@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at University of Michigan
+role: Student at University of Michigan | SDE Intern at Google
 
 # Organizations/Affiliations
-organizations:
+<!-- organizations:
 - name: Michigan University
-  url: ""
+  url: "" -->
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adversarial learning and interpretable machine learning.
