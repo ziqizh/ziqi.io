@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Remote"
   date_start = "2020-05-04"
-  date_end = ""
+  date_end = "2020-07-23"
   description = """
   Worked on an open-source project [OpenTelemetry](https://opentelemetry.io/) at Google Cloud - Cloud Signal Quality team. 
   """
