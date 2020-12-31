@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at University of Michigan | SDE Intern at Google
+role: Software Engineer at Google
 
 # Organizations/Affiliations
 organizations: []
-#- name: University of Michigan
+#- name: Google
 # url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,6 +66,6 @@ user_groups: []
 #- Visitors
 ---
 
-I am an undergraduate student at the University of Michigan IoT Security Lab, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research interests include adversarial learning and interpretable machine learning. 
+I recently graduated from the University of Michigan with a B.S. in Computer Science and a minor in Business. I will join Google as a software engineer starting March 2021. Formerly, I was honored to work at the UM IoT Security Lab, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research interests include adversarial learning and interpretable machine learning. 
 
-Prior to studying at UM, I spent two years at University of Rochester, where I was fortunate to be mentored by Professor [Yuhao Zhu](http://yuhaozhu.com/). I worked on image processing pipeline at his Horizon Lab. 
+Prior to studying at UM, I spent two years at University of Rochester, where I was fortunate to be mentored by Professor [Yuhao Zhu](http://yuhaozhu.com/). I worked on image processing pipelines at his Horizon Lab. 
